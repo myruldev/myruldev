@@ -47,9 +47,9 @@ I use **basic coding and AI-assisted tools** only as supporting utilities to imp
 📹 CCTV System     : IP Camera, DVR/NVR, Monitoring
 📡 Networking      : LAN, IP Planning, Cable Management
 🧰 IT Support      : Installation, Maintenance, Troubleshooting
-⚙ Automation      : AI-assisted scripts & tools
-💻 Coding (Basic)  : HTML, JavaScript, PHP
-📱 Device System   : Android Optimization, Termux
+⚙ Automation       : AI-assisted scripts & tools
+💻 Coding (Basic)  : HTML, CSS, JavaScript
+📱 Device System    : Android Optimization, Termux
 ```
 
 ---
