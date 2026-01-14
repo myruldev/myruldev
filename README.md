@@ -50,5 +50,5 @@ Comfortable working across **software development** and **real-world technical i
 
 ## 🤝 Kontak
 - Email: myruldev@gmail.com
-- WhatsApp: +62 899-9777-9944
+- WhatsApp: wa.me/6289997779944
 - Website: https://myrul.dev
