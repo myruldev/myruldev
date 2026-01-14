@@ -34,7 +34,7 @@ Comfortable working across **software development** and **real-world technical i
 ---
 
 ## 🛠 Tech Stack
-- HTML, CSS, JavaScript, PHP
+- HTML, CSS, JavaScript
 - MySQL, Firebase, Google Apps Script
 - Git, GitHub, Linux
 - CCTV, Networking, IT Support
