@@ -1,59 +1,56 @@
+# myruldev — GitHub Profile README
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Amirul+%28myruldev%29;Web+Developer+%7C+Automation+Tools;CCTV+%26+IT+Technician;From+Code+to+Cable" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Amirul+%28myruldev%29;Web+Developer+%7C+Automation+Tools;CCTV+%26+IT+Technician;From+Code+to+Cable" />
 </p>
 
 <p align="center">
-  <a href="https://myrul.dev"><img src="https://img.shields.io/badge/Portfolio-myrul.dev-0d1117?style=for-the-badge&logo=vercel"></a>
-  <a href="mailto:myruldev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://myrul.dev">🌐 Portfolio</a> •
+  <a href="mailto:myruldev@gmail.com">📧 Email</a> •
+  <a href="https://wa.me/6289997779944">📱 WhatsApp</a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🇮🇩 Tentang Saya
 Saya adalah **Web Developer** yang juga aktif sebagai **Teknisi CCTV & IT**.  
-Terbiasa bekerja di dua dunia: **pengembangan sistem digital** dan **implementasi teknis di lapangan**.
+Terbiasa mengerjakan **pengembangan sistem digital** sekaligus **pekerjaan teknis lapangan**.
 
-- 🔧 Web Developer (Frontend & Backend)
-- 🤖 Automation tools & AI-assisted utilities
-- 🛠 CCTV & IT Technician (instalasi, konfigurasi, maintenance)
-- 📱 Android & system optimization (Termux, Shizuku)
-- 🧠 Problem solver, adaptif, dan terbiasa kerja mandiri maupun tim
+- Web Developer (Frontend & Backend)
+- Automation tools & AI-assisted utilities
+- Teknisi CCTV & IT (instalasi, maintenance, troubleshooting)
+- Android & system optimization (Termux, Shizuku)
+- Problem solver & fast learner
 
-> *Solusi terbaik lahir dari pemahaman kode dan kondisi nyata di lapangan.*
+---
+
+## 🇬🇧 About Me
+I'm a **Web Developer** with hands-on experience as a **CCTV & IT Technician**.  
+Comfortable working across **software development** and **real-world technical infrastructure**.
+
+- Web Development (Frontend & Backend)
+- Automation & internal tools
+- CCTV & IT field operations
+- Android & system optimization
 
 ---
 
 ## 🛠 Tech Stack
-```text
-💻 Languages     : HTML, CSS, JavaScript, PHP
-🗄 Backend       : MySQL, Firebase, Google Apps Script
-⚙ Tools         : Git, GitHub, Termux, Linux
-📡 Field Tech    : CCTV, Networking, IT Support
-📱 System Tools : Android Optimization, Shizuku
-```
+- HTML, CSS, JavaScript, PHP
+- MySQL, Firebase, Google Apps Script
+- Git, GitHub, Linux
+- CCTV, Networking, IT Support
 
 ---
 
 ## 📌 Featured Projects
-- ⚡ **Xiaomi Debloat Tool (No Root)**  
-  Safe MIUI optimization using Termux + Shizuku  
-
-- 🧾 **Invoice Generator Web App**  
-  CMS + Google Sheets integration
+- Xiaomi Debloat Tool (No Root)
+- Invoice Generator Web App
+- Portfolio Website
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myruldev&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myruldev&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🤝 Let's Connect
-Jika kamu butuh **developer**, **automation tools**, atau **teknisi IT & CCTV**,  
-feel free untuk menghubungi saya.
+## 🤝 Kontak
+- Email: myruldev@gmail.com
+- WhatsApp: +62 899-9777-9944
+- Website: https://myrul.dev
