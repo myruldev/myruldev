@@ -1,5 +1,3 @@
-# myruldev — GitHub Profile README
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Amirul+%28myruldev%29;Web+Developer+%7C+Automation+Tools;CCTV+%26+IT+Technician;From+Code+to+Cable" />
 </p>
