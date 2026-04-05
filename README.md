@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://myrul.dev"><img src="https://img.shields.io/badge/Website-myrul.dev-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:myruldev@gmail.com"><img src="https://img.shields.io/badge/Email-myruldev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/6289997779944"><img src="https://img.shields.io/badge/WhatsApp-Contact+Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://myrul.dev"><img src="https://img.shields.io/badge/Website-myrul.dev-10B981?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:myruldev@gmail.com"><img src="https://img.shields.io/badge/Email-myruldev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/6289997779944"><img src="https://img.shields.io/badge/WhatsApp-Contact_Me-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
