@@ -91,7 +91,6 @@ Saya adalah **Teknisi CCTV & IT** yang fokus pada **pekerjaan lapangan**. Bagi s
 
 - 📱 **[MiDebloat-Remover (MDR)](https://github.com/myruldev/MiDebloat-Remover)** — Bersihkan bloatware **Xiaomi / Redmi / POCO** (MIUI & HyperOS) tanpa root. CLI Bash via Termux + Shizuku.
 - 🤖 **[Android-Universal-Debloat (AUD)](https://github.com/myruldev/Android-Universal-Debloat)** — Debloat **universal semua merek Android** tanpa root, didukung database 25+ merek & Mode Simulasi.
-- 🍏 **[Myrul Store](https://github.com/myruldev/myrulstore)**: Platform digital ecommerce dengan kodingan "Buttery Smooth".
 
 > *Coding is my supporting skill, Field Insight is my main power.*
 
