@@ -71,8 +71,10 @@ Saya adalah **Teknisi CCTV & IT** yang fokus pada **pekerjaan lapangan**. Bagi s
 
 ---
 
-<!-- ✅ BARU - AKTIF sekarang -->
-<img src="https://trophy.benkou.dev/?username=myruldev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophy" />
+### 🏆 Achievements
+<p align="center">
+  <img src="https://trophy.benkou.dev/?username=myruldev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophy" />
+</p>
 
 ---
 
