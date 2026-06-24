@@ -20,8 +20,8 @@
 
 ---
 
-### 🧑‍🔧 Profil Profesional
-Saya adalah **Teknisi CCTV & IT** yang fokus pada **pekerjaan lapangan**. Bagi saya, koding dan AI bukan cuma hobi, tapi **senjata utama** untuk mempercepat instalasi, otomasi monitoring, dan dokumentasi sistem yang presisi.
+### 🧑‍🔧 Profil Singkat
+Saya adalah **Teknisi CCTV & IT** yang fokus pada **pekerjaan lapangan**. Bagi saya, koding dan AI bukan cuma hobi, tapi **senjata utama** untuk mempercepat pekerjaan, otomasi monitoring, dan dokumentasi sistem yang presisi.
 
 - 🛠️ **Field Power**: Ahli instalasi IP Camera, Networking (LAN/WLAN), dan Troubleshooting NVR/DVR.
 - ⚙️ **Digital Logic**: Mengembangkan tools internal berbasis web dan script otomasi untuk efisiensi kerja lapangan.
@@ -53,8 +53,7 @@ Saya adalah **Teknisi CCTV & IT** yang fokus pada **pekerjaan lapangan**. Bagi s
 </p>
 
 <p align="center">
-  <!-- Pastikan workflow streak-stats.yml sudah dijalankan -->
-  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" width="100%" /></a>
+  <img src="https://streak-stats.demolab.com?user=myruldev&theme=tokyonight&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=10B981&currStreakNum=10B981&sideNums=10B981&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
