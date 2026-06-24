@@ -27,9 +27,9 @@ Saya adalah **Teknisi CCTV & IT** yang fokus pada **pekerjaan lapangan**. Bagi s
 
 | Field Expertise | Digital Tools |
 | :--- | :--- |
-| ![CCTV](https://img.shields.io/badge/CCTV-IP_Cam_%7C_NVR_%7C_DVR-black?style=flat-square&logo=cctv) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| ![Networking](https://img.shields.io/badge/Networking-LAN_%7C_Mikrotik-005571?style=flat-square&logo=ubiquiti) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| ![IT Support](https://img.shields.io/badge/IT_Support-Troubleshooting-gray?style=flat-square&logo=windowsterminal) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![GAS](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google) |
+| ![CCTV](https://img.shields.io/badge/CCTV-IP_Cam_%7C_NVR_%7C_DVR-black?style=flat-square) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| ![Networking](https://img.shields.io/badge/Networking-LAN_%7C_Mikrotik-005571?style=flat-square&logo=mikrotik&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| ![IT Support](https://img.shields.io/badge/IT_Support-Troubleshooting-gray?style=flat-square&logo=windowsterminal&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![GAS](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white) |
 
 ---
 
@@ -40,13 +40,13 @@ Saya adalah **Teknisi CCTV & IT** yang fokus pada **pekerjaan lapangan**. Bagi s
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myruldev&theme=tokyonight&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=10B981&currStreakNum=10B981" alt="myruldev streak" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=myruldev&theme=tokyonight&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=10B981&currStreakNum=10B981" alt="myruldev streak" width="100%" />
 </p>
 
 ---
 
 ### 📌 Repositori Unggulan 
-- 🍏 **[Myrul Store](https://github.com/xamrlx/myrulstore)**: Platform digital ecommerce dengan kodingan "Buttery Smooth".
+- 🍏 **[Myrul Store](https://github.com/myruldev/myrulstore)**: Platform digital ecommerce dengan kodingan "Buttery Smooth". <!-- [CEK INI] pastikan username repo benar -->
 - ⚙ **Internal Monitoring Tools**: Script otomasi untuk pengecekan status IP Camera secara massal.
 - 🌐 **Project Documentation**: Kumpulan skema jaringan dan konfigurasi sistem IT.
 
