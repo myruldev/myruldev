@@ -14,7 +14,7 @@
 
 ---
 
-### 🧑‍🔧 Profil Profesional
+### 🧑‍🔧 Profil Singkat
 Saya adalah **Teknisi CCTV & IT** yang fokus pada **pekerjaan lapangan**. Bagi saya, koding dan AI bukan cuma hobi, tapi **senjata utama** untuk mempercepat instalasi, otomasi monitoring, dan dokumentasi sistem yang presisi.
 
 - 🛠 **Field Power**: Ahli instalasi IP Camera, Networking (LAN/WLAN), dan Troubleshooting NVR/DVR.
@@ -45,10 +45,26 @@ Saya adalah **Teknisi CCTV & IT** yang fokus pada **pekerjaan lapangan**. Bagi s
 
 ---
 
-### 📌 Repositori Unggulan 
-- 🍏 **[Myrul Store](https://github.com/myruldev/myrulstore)**: Platform digital ecommerce dengan kodingan "Buttery Smooth". <!-- [CEK INI] pastikan username repo benar -->
-- ⚙ **Internal Monitoring Tools**: Script otomasi untuk pengecekan status IP Camera secara massal.
-- 🌐 **Project Documentation**: Kumpulan skema jaringan dan konfigurasi sistem IT.
+### 📌 Repositori Unggulan
+
+<p align="center">
+  <a href="https://github.com/myruldev/MiDebloat-Remover">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=myruldev&repo=MiDebloat-Remover&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9" alt="MiDebloat-Remover" />
+  </a>
+  <a href="https://github.com/myruldev/Android-Universal-Debloat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=myruldev&repo=Android-Universal-Debloat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9" alt="Android-Universal-Debloat" />
+  </a>
+</p>
+
+- 📱 **[MiDebloat-Remover (MDR)](https://github.com/myruldev/MiDebloat-Remover)** — Bersihkan bloatware **Xiaomi / Redmi / POCO** (MIUI & HyperOS) **tanpa root**. CLI Bash via Termux + Shizuku: Debloat Aman/Advanced, Game Mode, Ultra Battery, monitor RAM/CPU real-time, sampai restore penuh & per-aplikasi.
+- 🤖 **[Android-Universal-Debloat (AUD)](https://github.com/myruldev/Android-Universal-Debloat)** — Debloat **universal semua merek Android** tanpa root, didukung database 25+ merek (Samsung, Oppo, Vivo, Realme, Infinix, dll) + tingkat risiko, **Mode Simulasi**, whitelist, & auto-backup.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-Termux-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Root-Tidak%20Perlu-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
+</p>
 
 > *Coding is my supporting skill, Field Insight is my main power.*
 
