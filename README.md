@@ -20,7 +20,7 @@
 
 ---
 
-### 🧑 🔧 Profil Singkat
+### 🧑‍🔧 Profil Singkat
 Saya adalah **Teknisi CCTV & IT** yang fokus pada **pekerjaan lapangan**. Bagi saya, koding dan AI bukan cuma hobi, tapi **senjata utama** untuk mempercepat pekerjaan, otomasi monitoring, dan dokumentasi sistem yang presisi.
 
 - 🛠️ **Field Power**: Ahli instalasi IP Camera, Networking (LAN/WLAN), dan Troubleshooting NVR/DVR.
@@ -32,11 +32,8 @@ Saya adalah **Teknisi CCTV & IT** yang fokus pada **pekerjaan lapangan**. Bagi s
 ### 🛠️ Tech & Field Stack
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,nodejs,supabase,gcp,git,github,vscode,linux,bash&theme=dark&perline=12" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,nodejs,supabase,gcp,git,github,vscode,linux,bash&theme=light&perline=12" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,supabase,gcp,git,github,vscode,linux,bash&theme=dark&perline=12" />
-  </picture>
+  <!-- Tech icons fixed: HTML, CSS, JS, React, Node, Supabase, GCP, Git, GitHub, VSCode, Linux, Bash -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,supabase,gcp,git,github,vscode,linux,bash&theme=dark" />
 </p>
 
 | Field Expertise | Specialty Badges |
@@ -50,13 +47,13 @@ Saya adalah **Teknisi CCTV & IT** yang fokus pada **pekerjaan lapangan**. Bagi s
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=myruldev&show_icons=true&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=myruldev&show_icons=true&theme=flat&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=myruldev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=myruldev&show_icons=true&theme=flat&hide_border=true&title_color=10B981&icon_color=10B981&text_color=333" />
+    <img src="https://github-readme-stats.vercel.app/api?username=myruldev&show_icons=true&theme=tokyonight&hide_border=true" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=myruldev&layout=compact&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=myruldev&layout=compact&theme=flat&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myruldev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=myruldev&layout=compact&theme=flat&hide_border=true&title_color=10B981&text_color=333" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myruldev&layout=compact&theme=tokyonight&hide_border=true" />
   </picture>
 </p>
 
@@ -64,7 +61,7 @@ Saya adalah **Teknisi CCTV & IT** yang fokus pada **pekerjaan lapangan**. Bagi s
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=myruldev&bg_color=0D1117&color=10B981&line=10B981&point=ffffff&area_color=10B981&area=true&hide_border=true&title_color=10B981" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=myruldev&bg_color=ffffff&color=10B981&line=10B981&point=10B981&area_color=10B981&area=true&hide_border=true&title_color=10B981" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=myruldev&bg_color=0D1117&color=10B981&line=10B981&point=ffffff&area_color=10B981&area=true&hide_border=true&title_color=10B981" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=myruldev&bg_color=0D1117&color=10B981&line=10B981&point=ffffff&area_color=10B981&area=true&hide_border=true&title_color=10B981" />
   </picture>
 </p>
 
@@ -72,7 +69,7 @@ Saya adalah **Teknisi CCTV & IT** yang fokus pada **pekerjaan lapangan**. Bagi s
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=myruldev&theme=tokyonight&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=10B981&currStreakNum=10B981&sideNums=10B981&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=myruldev&theme=flat&hide_border=true&background=ffffff&stroke=10B981&ring=10B981&fire=10B981&currStreakNum=10B981&sideNums=10B981&currStreakLabel=333333&sideLabels=333333&dates=333333" />
-    <img src="https://streak-stats.demolab.com?user=myruldev&theme=tokyonight&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=10B981&currStreakNum=10B981&sideNums=10B981&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="100%" />
+    <img src="https://streak-stats.demolab.com?user=myruldev&theme=tokyonight&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=10B981&currStreakNum=10B981&sideNums=10B981&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
   </picture>
 </p>
 
@@ -94,7 +91,7 @@ Saya adalah **Teknisi CCTV & IT** yang fokus pada **pekerjaan lapangan**. Bagi s
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://trophy.benkou.dev/?username=myruldev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
     <source media="(prefers-color-scheme: light)" srcset="https://trophy.benkou.dev/?username=myruldev&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" />
-    <img src="https://trophy.benkou.dev/?username=myruldev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophy" />
+    <img src="https://trophy.benkou.dev/?username=myruldev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
   </picture>
 </p>
 
@@ -104,14 +101,14 @@ Saya adalah **Teknisi CCTV & IT** yang fokus pada **pekerjaan lapangan**. Bagi s
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=myruldev&repo=MiDebloat-Remover&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=myruldev&repo=MiDebloat-Remover&theme=flat&hide_border=true&title_color=10B981&icon_color=10B981" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=myruldev&repo=MiDebloat-Remover&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9" alt="MiDebloat-Remover" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=myruldev&repo=MiDebloat-Remover&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9&description_lines_count=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=myruldev&repo=MiDebloat-Remover&theme=flat&hide_border=true&title_color=10B981&icon_color=10B981&description_lines_count=2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=myruldev&repo=MiDebloat-Remover&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=myruldev&repo=Android-Universal-Debloat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=myruldev&repo=Android-Universal-Debloat&theme=flat&hide_border=true&title_color=10B981&icon_color=10B981" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=myruldev&repo=Android-Universal-Debloat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9" alt="Android-Universal-Debloat" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=myruldev&repo=Android-Universal-Debloat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9&description_lines_count=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=myruldev&repo=Android-Universal-Debloat&theme=flat&hide_border=true&title_color=10B981&icon_color=10B981&description_lines_count=2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=myruldev&repo=Android-Universal-Debloat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9" />
   </picture>
 </p>
 
