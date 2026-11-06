@@ -26,6 +26,9 @@ Saya adalah **Teknisi CCTV & IT** yang fokus pada **pekerjaan lapangan**. Bagi s
 - 🛠️ **Field Power**: Ahli instalasi IP Camera, Networking (LAN/WLAN), dan Troubleshooting NVR/DVR.
 - ⚙️ **Digital Logic**: Mengembangkan tools internal berbasis web dan script otomasi untuk efisiensi kerja lapangan.
 - 📱 **Optimization**: Fokus pada sistem yang reliabel, kencang, dan mudah dimonitor.
+- 🚀 **Builder**: Membangun [ThreadsFlow](https://www.threadsflow.my.id) (SaaS otomasi Threads) dan [pentest-web](https://github.com/myruldev/pentest-web) (web security scanner).
+
+🔭 **Saat ini fokus:** Mengembangkan ThreadsFlow & hunting bug bounty.
 
 ---
 
@@ -54,14 +57,6 @@ Saya adalah **Teknisi CCTV & IT** yang fokus pada **pekerjaan lapangan**. Bagi s
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=myruldev&layout=compact&theme=tokyonight&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=myruldev&layout=compact&theme=flat&hide_border=true&title_color=10B981&text_color=333" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myruldev&layout=compact&theme=tokyonight&hide_border=true" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=myruldev&bg_color=0D1117&color=10B981&line=10B981&point=ffffff&area_color=10B981&area=true&hide_border=true&title_color=10B981" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=myruldev&bg_color=ffffff&color=10B981&line=10B981&point=10B981&area_color=10B981&area=true&hide_border=true&title_color=10B981" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=myruldev&bg_color=0D1117&color=10B981&line=10B981&point=ffffff&area_color=10B981&area=true&hide_border=true&title_color=10B981" />
   </picture>
 </p>
 
@@ -110,10 +105,16 @@ Saya adalah **Teknisi CCTV & IT** yang fokus pada **pekerjaan lapangan**. Bagi s
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=myruldev&repo=Android-Universal-Debloat&theme=flat&hide_border=true&title_color=10B981&icon_color=10B981&description_lines_count=2" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=myruldev&repo=Android-Universal-Debloat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9" />
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=myruldev&repo=pentest-web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9&description_lines_count=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=myruldev&repo=pentest-web&theme=flat&hide_border=true&title_color=10B981&icon_color=10B981&description_lines_count=2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=myruldev&repo=pentest-web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9" />
+  </picture>
 </p>
 
 - 📱 **[MiDebloat-Remover (MDR)](https://github.com/myruldev/MiDebloat-Remover)** — Bersihkan bloatware **Xiaomi / Redmi / POCO** (MIUI & HyperOS) tanpa root. CLI Bash via Termux + Shizuku.
 - 🤖 **[Android-Universal-Debloat (AUD)](https://github.com/myruldev/Android-Universal-Debloat)** — Debloat **universal semua merek Android** tanpa root, didukung database 25+ merek & Mode Simulasi.
+- 🔍 **[pentest-web](https://github.com/myruldev/pentest-web)** — Web security scanner berbasis bukti (evidence-based), Node.js CLI tanpa dependensi, dengan analisis AI opsional.
 
 ---
 
